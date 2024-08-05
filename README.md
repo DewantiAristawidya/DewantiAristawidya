@@ -1,16 +1,10 @@
 
 
-- 👋 Hi, I’m @DewantiAristawidya
-- 👀 I’m interested in management, logistics, and data analysis.
+- 👋 Hi, I'm Dewanti Aristawidya 
+- 👀 I’m interested in career management and data analysis.
 - 🌱 I’m currently learning programming for data analysis.
-- 💞️ I’m looking to collaborate on data analysis projects and e-commerce sales visualization.
+- 🔭 I have studied data analytics bootcamp certificate course and learned about what is data analytics and data visualization
 - 📫 How to reach me: Dewantiaarista@gmail.com or LinkedIn
-
-
----> 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![DewantiArisatwidya's github stats](https://github-readme-stats.vercel.app/api?username=DewantiAristawidya&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 # 💻 Tech Stack
